@@ -1,0 +1,35 @@
+.WrapperNav{
+    padding: 0.5rem;
+    background-color: #88969e9b;       
+    border: 1px solid #999;
+    height: 45px; 
+    margin: 0px auto;
+    width: 100%;   
+   
+         
+  }
+.searchbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around
+}  
+
+.WrapperNav input {
+    height: 50%;
+    width: 60%;
+    padding: 0.6rem;
+  
+}
+.NavLink{
+    text-decoration: none;
+    color:black;
+    border: 1px solid black;
+    padding: 0.5rem;
+    background: #88969e6c;
+    border-radius: 5px;
+    
+}
+.NavLink:hover{
+    background: black;
+    color: white;
+}

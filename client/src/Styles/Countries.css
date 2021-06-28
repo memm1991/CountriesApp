@@ -1,0 +1,28 @@
+.WrapperCountries{
+    display: flex;
+    background-color: #f0f4c3;
+    flex-flow: column;
+}
+.WrapperCards{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.WrapperCountries > p{
+font-size: 2rem;
+text-align: center;
+}
+.filters{
+    display: flex;
+    flex-direction: row;
+   justify-content: space-around;
+   font-size: 1.3rem;
+}
+.filters div{
+    border: 1px solid black;
+    padding: 1.3rem;
+    border-radius: 5px;
+}
+.filters select{
+    font-size: 1.3rem;
+}

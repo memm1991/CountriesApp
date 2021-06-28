@@ -1,0 +1,19 @@
+.Landscape {
+    width: 100vw;
+    height: 100vh;
+    background:url('../img/Landscape2.jpg');
+    background-size: cover;
+    background-position: center center;
+}
+.BtLand{
+    margin: 20% 40% 50% 45% ;
+    width: 15rem;
+    height: 5rem;
+    font-size:2rem ;
+    background-color: rgba(255,255,255,0.4);
+}
+.BtLand > a{
+    text-decoration: none;
+    color:black;
+    font-weight: 700;
+}

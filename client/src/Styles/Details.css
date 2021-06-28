@@ -1,0 +1,17 @@
+.WrapperDetails section {
+    width:40% ;
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+    font-size: 1.3rem;
+    
+
+}
+.WrapperDetails section h3{
+    font-size: 2rem;
+}
+.ActivitiesShow {
+    width: 80%;
+    margin: auto;
+}
+  
