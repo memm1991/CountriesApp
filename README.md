@@ -1,10 +1,7 @@
 <p align='left'>
     <img src='https://static.wixstatic.com/media/85087f_0d84cbeaeb824fca8f7ff18d7c9eaafd~mv2.png/v1/fill/w_160,h_30,al_c,q_85,usm_0.66_1.00_0.01/Logo_completo_Color_1PNG.webp' </img>
 </p>
-![Uploading LandingCountries.png…]()
-![Uploading ActivitiesCountries.png…]()
-![Uploading home.png…]()
-![detailsCountires](https://user-images.githubusercontent.com/72989632/123965723-1de28c80-d98b-11eb-9fc0-c965f3a32d64.png)
+
 
 # Individual Project - Henry Countries
 
