@@ -20,23 +20,61 @@ IMPORTANTE: Para poder correr esta APP deberas instalar postgres SQL, y crear y 
 El archivo .env (carpeta api) debe tener la siguiente forma:
 
 DB_USER=usuariodepostgres
+
+
 DB_PASSWORD=passwordDePostgres
+
+
 DB_HOST=localhost
+
+
 DB_NAME=el nombre de la base de dato que hayas creado para usar con esta app
+
+
 PORT=3001
+
+
 Adicionalmente será necesario que crees desde psql una base de datos llamada videogames
 
+
+
 Instalación 🔧
+
+
 Clona el repo
+
+
 git clone https://github.com/memm1991/CountriesApp.git
+
+
 Instala los paquetes
+
+
 npm install
+
+
 Inicia tanto el back (carpeta api), como el front (carpeta client)
+
+
 npm start
+
+
 Construido con 🛠️
+
+
  React
+ 
+ 
  Redux
+ 
+ 
  Express
+ 
+ 
  Sequelize - Postgres
+ 
+ 
 Licencia 📄
+
+
 Este proyecto fue creado con fines educativos, no tiene fines de lucro - sientete libre de usarlo
